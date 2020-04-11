@@ -1,5 +1,5 @@
 # EscapeRoom
-Download all the thing and start ProtoType.ex in Debug folder.  
+Download Escape Room.zip and start ProtoType.exe in Debug folder.  
 res folder : bitmat images  
 lib folder : libraries  
 include folder : headers  
