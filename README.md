@@ -1,4 +1,9 @@
 # EscapeRoom
+![image](https://github.com/suyeony0/EscapeRoom/assets/43649996/01b8d212-ef26-4f13-a47b-54de1d7f4e58)
+
+![image](https://github.com/suyeony0/EscapeRoom/assets/43649996/81cfac13-09e9-4192-9b8c-3999f54a4e3a)
+
+
 Download Escape Room.zip and start ProtoType.exe in Debug folder.  
 res folder : bitmat images  
 lib folder : libraries  
